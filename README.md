@@ -1,14 +1,11 @@
 # Εισαγωγή στον Αντικειμενοστραφή Προγραμματισμό
 
 - [ ] Εισαγωγή στη Java
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
 
 
 ## Πηγές
 * [cgi.di.uoa.gr/~izambo/K10Java.pdf](https://cgi.di.uoa.gr/~izambo/K10Java.pdf)
+* [docs.oracle.com/javase](https://docs.oracle.com/javase/tutorial/java/index.html)
 
 
 ---
